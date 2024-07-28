@@ -1,4 +1,4 @@
-# Project-Pizza-Sales-Analysis-Dashboard
+# Project-Pizza-Sales-Analysis.
 The project focuses on using SQL queries to analyze pizza sales data to discover meaningful insights that can inform strategic decisions and improve business operations
 
 🌟 Executed an extensive project on pizza sales using a MySQL database, highlighting expertise in database management and analysis.
